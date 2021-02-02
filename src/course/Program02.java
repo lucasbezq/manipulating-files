@@ -16,7 +16,9 @@ public class Program02 {
 
 		File[] folders = path.listFiles(File::isDirectory);
 		System.out.println("Folders: ");
-		for (File folder : folders) {
+		for 
+		
+		(File folder : folders) {
 			System.out.println(folder);
 		}
 
